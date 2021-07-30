@@ -25,11 +25,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?flat&logo=css3&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?flat&logo=flutter&logoColor=white)&nbsp;
-![React](	https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB)&nbsp;
 ![Django](	https://img.shields.io/badge/Django-092E20?flate&logo=django&logoColor=green)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?falt&logo=TensorFlow&logoColor=white)&nbsp;
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?flat&logo=scikit-learn&logoColor=white)&nbsp;
 ![Open CV](https://img.shields.io/badge/OpenCV-27338e?flat&logo=OpenCV&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?flat&logo=google-cloud&logoColor=white)&nbsp;\
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?flat&logo=mysql&logoColor=white)&nbsp;
