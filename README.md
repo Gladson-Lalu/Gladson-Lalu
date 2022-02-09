@@ -6,12 +6,13 @@
                 width="28" /> Let's Talk Personal</h2></summary>
 
 - 🔭 I'm working on Backend Music API.
-- 🌱 I’m currently learning django and React.
-- 💡 I'm interested in MERN Stack, Cloud, Machine Learning and Data Science
+- 🌱 I’m currently learning Data Science.
+- 💡 I'm interested in MERN Stack, Cloud, Machine Learning.
 - 👯 I’m looking to collaborate on Frontend and Flutter projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Flutter, Anroid Development, Web-App Development, Any tech-related stuff.
+- 🤔 I’m looking for help Data Science.
+- 💬 Ask me about Flutter, Anroid Development, Web-App Development, React, Any tech-related stuff.
 - ⚡ Fun fact: I 💖 Memes.
+- 🎮 🤍 playing chess
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
@@ -25,7 +26,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?flat&logo=css3&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?flat&logo=flutter&logoColor=white)&nbsp;
-![Django](	https://img.shields.io/badge/Django-092E20?flate&logo=django&logoColor=green)&nbsp;
+![React](https://img.shields.io/badge/React-20232A?flat&logo=react&logoColor=61DAFB)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?flat&logo=django&logoColor=green)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?falt&logo=TensorFlow&logoColor=white)&nbsp;
 ![Open CV](https://img.shields.io/badge/OpenCV-27338e?flat&logo=OpenCV&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?flat&logo=google-cloud&logoColor=white)&nbsp;\
