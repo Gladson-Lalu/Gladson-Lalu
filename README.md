@@ -37,15 +37,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
 
----
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1643516020/20430/mochi_headphones.gif?1643516020" align="center"
-                width="28" /> Spotify Now Playing</h2></summary>
-<p width="100%" justify-content="space-between">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31kpyat2stvpprlgoadxmttek3xu&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f" height="140px"/>
-<img src="https://ucalyptus.github.io/Spotify-Recommendation-Engine/spotify.gif" alt="GIF" align="right" width="250px">
-</p>
-
----
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" />Connect with me</h2></summary>
 
