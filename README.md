@@ -1,6 +1,6 @@
 <h1><p align="center">Hello, I'm Gladson T Lalu! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
-<p align="center"><b>I'm a Full Stack Developer.</b><br/>I <b>specialize</b> in <b>Front App & Web Development</b> and <b>Flutter.</b><br><br> <i>Loves to learn new technologies and play around with building stuff and invent solutions to real-life problems.</i><br></p><br/>
+<p align="center"><b>I'm a Full Stack Developer.</b><br/>I <b>specialize</b> in <b>Web & Mobile Development</b> and <b>Flutter.</b><br><br> <i>Loves to learn new technologies and play around with building stuff and invent solutions to real-life problems.</i><br></p><br/>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Let's Talk Personal</h2></summary>
@@ -36,6 +36,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br>
+
+---
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" />Connect with me</h2></summary>
